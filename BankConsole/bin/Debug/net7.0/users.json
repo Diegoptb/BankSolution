@@ -1,0 +1,42 @@
+[
+  {
+    "TaxRegime": "M",
+    "ID": 1,
+    "Name": "Diego",
+    "Email": null,
+    "Balance": 4080.0,
+    "RegisterDate": "2024-02-18T19:16:35.1133223-06:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 2,
+    "Name": "Pedro",
+    "Email": null,
+    "Balance": 4120.0,
+    "RegisterDate": "2024-02-18T19:16:35.1281937-06:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 1,
+    "Name": "Diego",
+    "Email": null,
+    "Balance": 4080.0,
+    "RegisterDate": "2024-02-18T19:31:31.2528834-06:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 2,
+    "Name": "Pedro",
+    "Email": null,
+    "Balance": 4120.0,
+    "RegisterDate": "2024-02-18T19:31:31.2671799-06:00"
+  },
+  {
+    "Department": "Ventas",
+    "ID": 3,
+    "Name": "Jose",
+    "Email": null,
+    "Balance": 562.45,
+    "RegisterDate": "2024-02-18T23:12:32.1786691-06:00"
+  }
+]
